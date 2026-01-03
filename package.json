@@ -1,0 +1,23 @@
+{
+  "name": "playwright-biosafeapp",
+  "version": "1.0.0",
+  "description": "Este repositorio se basa en la automatización de escenarios para la aplicación bioSafeAPP",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zemanser/playwright-biosafeapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Zemanser/playwright-biosafeapp/issues"
+  },
+  "homepage": "https://github.com/Zemanser/playwright-biosafeapp#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.3"
+  }
+}
