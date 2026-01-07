@@ -1,0 +1,9 @@
+{
+"usuarios":{
+    "correcto": {
+        "nombre": "Francisco Gonzalez",
+        "contrasena": "Abc123*",
+        "email":"zemanser@hotmail.com"
+    }
+}    
+}  
